@@ -1,1 +1,1 @@
-# lean-githut
+# learn-github
